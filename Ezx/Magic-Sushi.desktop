@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Magic Sushi
+Version=1.0, 19-Sep-2022
+Author=EXL
+Comment=Port of popular logic game from MTK OS.
+Vendor=exlmoto.ru
+Exec=run.sh
+Icon=IconSmall.png
+BigIcon=IconBig.png
+Type=Application
+Category=Games
+Shared=2
